@@ -1,3 +1,9 @@
-Record=TopLevelDocument|FileName=M.2_Circuit.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=M.2_Circuit.SchDoc|FileName=ON_OFF_Circuit.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=M.2_Circuit.SchDoc|FileName=Power_Circuit.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=CAM_Connector.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=DisplayPort.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=Fan_Config_UART_OptionalHeader.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=HDMI_Connector.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=LevelShifters_GPIO.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=M.2_Circuit.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=ON_OFF_Circuit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=Power_Circuit.SchDoc|SheetNumber=1
