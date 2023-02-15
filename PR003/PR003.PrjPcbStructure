@@ -1,12 +1,16 @@
-Record=TopLevelDocument|FileName=CAM_Connector.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=DisplayPort.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=Fan_Config_UART_OptionalHeader.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=HDMI_Connector.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=LevelShifters_GPIOs.SchDoc|SheetNumber=9
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=M.2_Circuit.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=ON_OFF_Circuit.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=Power_Circuit.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=TestPointOfUnusedPCIe.SchDoc|SheetNumber=10
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=USB3.0_1.SchDoc|SheetNumber=11
-Record=NoMainPathDocument|SourceDocument=CAM_Connector.SchDoc|FileName=USB3.0_2.SchDoc|SheetNumber=12
+Record=TopLevelDocument|FileName=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=Block_HDMI, DP, DSI, USBSS and PCIe.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=Block_UART, I2C, CAN and GPIOs.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=CAM_Connector.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=DisplayPort.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=Fan_Config_UART_OptionalHeader.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=HDMI_Connector.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=LevelShifters_GPIOs.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=M.2_Circuit.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=ON_OFF_Circuit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=Power_Circuit.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=TestPointOfUnusedPCIe.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=USB3.0_1.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=USB3.0_2.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc|FileName=USB3HUB.SchDoc|SheetNumber=13
