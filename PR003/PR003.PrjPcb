@@ -49,6 +49,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Jetson_Orin_Nano.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=16
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WKXQRNOG
+
+[Document2]
 DocumentPath=Power_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYPVMPFZ
 
-[Document2]
+[Document3]
 DocumentPath=ON_OFF_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWJTVWFW
 
-[Document3]
+[Document4]
 DocumentPath=M.2_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLRQQVAV
 
-[Document4]
+[Document5]
+DocumentPath=M.2_M_NVMe.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=19
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZWTNMRGG
+
+[Document6]
 DocumentPath=Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGLMJJCW
 
-[Document5]
+[Document7]
 DocumentPath=HDMI_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFRMLRQX
 
-[Document6]
+[Document8]
 DocumentPath=DisplayPort.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWPAEMQE
 
-[Document7]
+[Document9]
 DocumentPath=CAM_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUWGVRKU
 
-[Document8]
+[Document10]
 DocumentPath=Fan_Config_UART_OptionalHeader.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPAJZZLY
 
-[Document9]
+[Document11]
 DocumentPath=LevelShifters_GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RAVMFPCX
 
-[Document10]
+[Document12]
 DocumentPath=TestPointOfUnusedPCIe.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,40 +251,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABZSZJOQ
-
-[Document11]
-DocumentPath=USB3.0_1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QMOQCFWY
-
-[Document12]
-DocumentPath=..\..\..\..\..\..\..\Downloads\ul_RHA0J561MCN1GS\AltiumDesigner\2023-02-13_10-31-51\USB3.0_2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ERJFBYFQ
 
 [Document13]
 DocumentPath=USB3HUB.SchDoc
@@ -270,6 +270,40 @@ GenerateClassCluster=0
 DocumentUniqueId=CDFVPJEY
 
 [Document14]
+DocumentPath=USB3.0_1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QMOQCFWY
+
+[Document15]
+DocumentPath=USB3.2_Type_A.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=18
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SXXIHPPP
+
+[Document16]
 DocumentPath=Block_UART, I2C, CAN and GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMZPXBNI
 
-[Document15]
+[Document17]
 DocumentPath=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOXKRFYR
 
-[Document16]
+[Document18]
 DocumentPath=Block_HDMI, DP, DSI, USBSS and PCIe.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +354,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPIXVBHW
 
-[Document17]
+[Document19]
+DocumentPath=TypeC_USB2.0.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MCLSSQYF
+
+[Document20]
 DocumentPath=PR003.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
