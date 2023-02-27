@@ -66,23 +66,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WKXQRNOG
 
 [Document2]
-DocumentPath=CAM_Connector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WUWGVRKU
-
-[Document3]
 DocumentPath=Power_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYPVMPFZ
 
-[Document4]
+[Document3]
 DocumentPath=ON_OFF_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,8 +99,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWJTVWFW
 
-[Document5]
-DocumentPath=Fan_Config_UART_OptionalHeader.SchDoc
+[Document4]
+DocumentPath=Config_UART_OptionalHeader.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPAJZZLY
 
-[Document6]
+[Document5]
 DocumentPath=LevelShifters_GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,41 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RAVMFPCX
 
-[Document7]
-DocumentPath=Audio_CodeC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PRUYNSRE
-
-[Document8]
-DocumentPath=TestPointOfUnusedPCIe.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ABZSZJOQ
-
-[Document9]
+[Document6]
 DocumentPath=Block_UART, I2C, CAN and GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMZPXBNI
 
-[Document10]
+[Document7]
 DocumentPath=Block_GPIOs, USB2.0, I2S, SPI, GBe and CSI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOXKRFYR
 
-[Document11]
+[Document8]
 DocumentPath=Block_HDMI, DP, DSI, USBSS and PCIe.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPIXVBHW
 
-[Document12]
+[Document9]
 DocumentPath=M.2_M_NVMe.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +201,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZWTNMRGG
 
-[Document13]
+[Document10]
+DocumentPath=CAM_Connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WUWGVRKU
+
+[Document11]
+DocumentPath=Audio_CodeC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=20
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PRUYNSRE
+
+[Document12]
 DocumentPath=TypeC_USB2.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCLSSQYF
 
-[Document14]
+[Document13]
 DocumentPath=USB3.2_Type_A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXXIHPPP
 
-[Document15]
+[Document14]
 DocumentPath=Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGLMJJCW
 
-[Document16]
+[Document15]
 DocumentPath=HDMI_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFRMLRQX
 
-[Document17]
+[Document16]
 DocumentPath=PR003.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -336,6 +319,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document17]
+DocumentPath=SoC_Fan_Header.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=21
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OIVJFLWB
 
 [Configuration1]
 Name=Sources
